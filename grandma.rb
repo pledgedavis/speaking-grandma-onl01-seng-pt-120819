@@ -13,8 +13,8 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 
-HUH?! SPEAK 
-
+    phrase = HUH?! SPEAK UP, SONNY!.
+if 
 
 
 
