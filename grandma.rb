@@ -13,8 +13,9 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 
-    phrase = HUH?! SPEAK UP, SONNY!.
-if 
+    
+def speak_to_grandma(phrase)
+  if  
 
 
 
@@ -24,7 +25,7 @@ if
 
 
 
-
+end
 
 
 
