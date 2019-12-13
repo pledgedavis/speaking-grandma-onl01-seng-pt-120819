@@ -15,7 +15,7 @@
 
     
 def speak_to_grandma(string)
-  if  s
+  if string 
 
 
 
