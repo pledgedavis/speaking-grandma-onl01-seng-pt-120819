@@ -14,8 +14,8 @@
 
 
     
-def speak_to_grandma(phrase)
-  if  
+def speak_to_grandma(string)
+  if  s
 
 
 
