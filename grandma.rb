@@ -22,7 +22,3 @@ def speak_to_grandma(string)
   elsif string != string.upcase 
    "HUH?! SPEAK UP, SONNY!"
 end
-
-
-
-
